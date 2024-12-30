@@ -1,15 +1,11 @@
-Pure PHP Forum is the Nahash Group's first registered project. This is an experimental version, so you can use it even if it has a lot of flaws.
+# PHP-Forum as Pure-PHP-Forum-System
 
-This project is developed in PHP and uses an embedded database system based on SQLite3.
+PHP-Forum is my first registered project. This is an experimental version, so you can use it even if it has a lot of flaws.
 
-Pure PHP Forum uses no framework, no bootstrap and no MVC structure, which is why it can be difficult to understand at first glance.
+The necessary PHP dependencies must be activated on the server (apt install php php-gd php-sqlite3 php-mbstring).
 
-You need to install PHP and the necessary dependencies to use it (apt install php php-gd php-sqlite3 php-mbstring).
-
-We are not responsible for any consequences of its use, the project is no longer developed because its developer no longer wishes to keep the project alive.
+PHP-Forum uses no framework, no bootstrap and no MVC structure, which is why it can be difficult to understand at first glance.
 
 The logins for the admin account are :
 - Username : admin
 - Password : u5*^ZxJ5!qNv%D%Za2Fi9
-
-Pure-PHP-Forum is fully TOR friendly.
